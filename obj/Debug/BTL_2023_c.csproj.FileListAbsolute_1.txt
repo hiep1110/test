@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\bin\Debug\BTL_2023_c.exe.config
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\bin\Debug\BTL_2023_c.exe
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\bin\Debug\BTL_2023_c.pdb
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.Form1.resources
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.exe
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.pdb
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.QLSV.resources
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.QLLop.resources
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.QLKhoa.resources
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.QLDiem.resources
+C:\Users\ADMIN\Desktop\c#\BTL_2023_c\BTL_2023_c\obj\Debug\BTL_2023_c.QLMH.resources
